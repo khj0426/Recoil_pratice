@@ -1,2 +1,4 @@
-# Recoil_pratice
-리코일을 배우고 학습하는 연습 레포입니다
+# recoil_prratice
+간단한 예제를 통해 알아보는 recoil!
+
+https://docs.google.com/presentation/d/14uAIfpJOUre6g7kNkC26cm9pYv3eCGwVisPp5-XKbIw/edit?usp=sharing
